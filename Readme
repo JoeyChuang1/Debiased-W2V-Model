@@ -1,0 +1,6 @@
+This folder contains W2V model implemented from scratch 
+-> Implemented and compared two word embedding models, Continuous Bag-of-Words (CBOW) and Skip-gram
+• Evaluated gender bias in GloVe embeddings (glove.6B) using WEAT method and gender subspace analysis for
+career-related words.
+• Implemented a debiasing technique (hard debiasing) to mitigate bias in career word embeddings, promoting fairer
+representation in the model.
